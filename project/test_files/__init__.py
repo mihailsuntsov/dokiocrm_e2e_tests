@@ -1,4 +1,5 @@
 from test_files.settings import Credentials
+from test_files.settings import SysVars
 from test_files.login import Login
 from test_files.ordersup import Ordersup
 from test_files.invoicein import Invoicein
@@ -8,3 +9,4 @@ from test_files.customersorders import Customersorders
 from test_files.invoiceout import Invoiceout
 from test_files.shipment import Shipments
 from test_files.return_ import Return
+from test_files.inventory import Inventory

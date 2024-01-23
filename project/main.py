@@ -9,6 +9,7 @@ from time import sleep
 #test_files.Customersorders()
 #test_files.Invoiceout()
 #test_files.Shipments()
-test_files.Return()
+#test_files.Return()
+test_files.Inventory()
 
 sleep(6)    
